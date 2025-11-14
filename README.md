@@ -33,8 +33,6 @@
 
 ## Platforms & Community 👥
 <!-- Platform / community badges -->
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
@@ -66,25 +64,21 @@
 
 ---
 
-## About Me 👋
+## About Me | MyCoreX1337 👋
 ```python
-class EliteSecurityResearcher:
+class EliteSecurity:
     def __init__(self):
-        self.alias = "mycorex1337"
-        self.role = "Web Application Security Researcher & Penetration Tester"
+        self.alias = "MyCoreX1337"
+        self.role = "Web Application Security & Penetration Tester"
         self.affiliation = "0x4D Security Collective"
         self.level = "Elite"
         self.specializations = [
             "Web App Pentesting",
             "Advanced Vulnerability Research",
             "Zero-Day Discovery",
-            "Secure Code Auditing",
-            "Red Team Operations",
-            "Threat Intelligence",
-            "Malware Analysis"
         ]
     def get_motto(self):
-        return "In God We Trust, All Others We Pentest"
+        return "the day you stop being teachable is the day you start dying"
 ```
 
 I hunt vulnerabilities, write practical research, and help organizations fix issues before attackers find them. I operate under strict ethics and responsible disclosure. 🛡️🤝
@@ -129,57 +123,8 @@ Certifications: OSCP, OSWE, eWPT, CRTP 🎓
 
 ---
 
-## Featured Projects & Research 📚✨
-
-- VulnScan-X Pro — Next-gen web vulnerability scanner 🛠️  
-- CodeAudit Pro — Enterprise static analysis for secure code reviews 🧾  
-- APISec Enterprise — Comprehensive API security testing framework 🔁
-
-Selected talks & papers:
-- Advanced Web Cache Deception Attacks — Black Hat USA 2024 🎤  
-- Bypassing Modern WAFs with HTTP/2 Smuggling — DEF CON 32 🔬  
-- API Security: The Next Frontier — OWASP Global 🌍  
-- Blockchain Smart Contract Exploitation — HITB Security ⛓️  
-- AI-Powered Vulnerability Discovery — IEEE Security & Privacy 🤖
-
----
-
-## Connect & Socials 🔗
-- X: https://twitter.com/mycorex1337 🐦  
-- LinkedIn: https://linkedin.com/in/mycorex1337 🔗  
-- HackerOne: https://hackerone.com/mycorex1337 🛡️  
-- Bugcrowd: https://bugcrowd.com/mycorex1337 🐞  
-- TryHackMe: https://tryhackme.com/p/mycorex1337 🧪  
-- GitHub: https://github.com/mycorex1337 🧑‍💻  
-- Email: unstoppable.dev@protonmail.com ✉️
-
-(Replace placeholders with your real handles & PGP key if needed.)
-
----
-
 ## GitHub Stats & Languages 📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mycorex1337&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mycorex1337&layout=compact&theme=radical&hide_border=true&langs_count=8)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mycorex1337&theme=radical&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=mycorex1337&theme=radical&no-frame=true&row=2&column=4)
 
 ---
-
-## Responsible Disclosure & Ethics ⚖️
-- I perform only authorized and legal security research. ✅  
-- Findings are disclosed responsibly to affected vendors/teams. 📬  
-- Tools and code are for authorized testing environments only. 🧪
-
-PGP/Encrypted reporting available on request.
-
----
-
-## Contact & Hiring 📬
-For responsible disclosure, consulting, or collaboration:
-- Preferred: Encrypted email (PGP) — request key via initial email  
-- Business inquiries: unstoppable.dev@protonmail.com  
-- Security reports: HackerOne / Bugcrowd or encrypted email
-
----
-
-Thanks for visiting — let's harden the internet together. 🔐🚀
