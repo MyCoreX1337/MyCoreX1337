@@ -26,8 +26,6 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-00FF00?style=for-the-badge&logo=ghidra&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=hex-rays&logoColor=white)
 
 ---
 
@@ -89,12 +87,8 @@ I hunt vulnerabilities, write practical research, and help organizations fix iss
 
 - Web Application Security (OWASP Top 10) ✅  
 - API Security & Testing (REST / GraphQL / gRPC) 🔍  
-- Cloud Security (AWS / Azure / GCP) ☁️  
-- Red Teaming & Adversary Emulation 🧭  
-- Reverse Engineering & Exploit Development 💀  
-- Network & Infrastructure Assessments 🌐  
-- Cryptanalysis & Secure Design Reviews 🔐
-
+- Network & Infrastructure Assessments 🌐
+  
 Certifications: OSCP, OSWE, eWPT, CRTP 🎓
 
 ---
